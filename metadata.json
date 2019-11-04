@@ -1,0 +1,9 @@
+{
+	"name": "Toggle Keyboard Backlight",
+	"description": "Switch on and off keyboard backlight from top panel.",
+	"url": "https://github.com/MartinPL/toggleKeyboardBacklight",
+	"uuid": "toggleKeyboardBacklight@SelfMade.pl",
+	"shell-version": [
+		"3.34"
+	]
+}
